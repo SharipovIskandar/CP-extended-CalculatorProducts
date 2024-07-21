@@ -1,5 +1,7 @@
 # CP-extended-CalculatorProducts
 
+##DIQQAT BILAN OQISHI TAVSIYA ETILADI!
+
 ## Loyihaning maqsadi
 
 Bu loyiha mahsulotlar jadvalini boshqarish va yangilash uchun mo'ljallangan. Loyihada mahsulotlar jadvalidagi ustunlar (column) nomlarini ko'rsatish, o'zgartirish va yangilash imkoniyatlari mavjud.
@@ -39,9 +41,12 @@ Bu loyiha mahsulotlar jadvalini boshqarish va yangilash uchun mo'ljallangan. Loy
 - Loyihada `PDO` yordamida ma'lumotlar bazasi bilan ishlash xavfsizligini ta'minlaydi.
 - `Bootstrap` yordamida sahifalar yaxshi ko'rinishga ega va mobil qurilmalarda ham yaxshi ishlaydi.
 
+## Kod Logikasi boyicha devoloper fikri
+- Bu kodda Sign up va Sign in bolgani uchun alohidadan sessiyalar bilan ishlamoqchi edim udallay olmadim, muamo shundaki qaysi user kirishidan qat'iy nazar userlar kiritgam malumotlar bitta databseda saqlanadi
+
 ## Qo'shimcha hujjatlar
 
-Projoect notion yordamida To-Doga asoslani [bajarildi](https://www.notion.so/New-Website-94e684de4cf14518a73cfc2db8b1473d?pvs=4)
+Projoect notion yordamida To-Doga asoslanib [bajarildi](https://www.notion.so/New-Website-94e684de4cf14518a73cfc2db8b1473d?pvs=4)
 
 
 ## Aloqa
