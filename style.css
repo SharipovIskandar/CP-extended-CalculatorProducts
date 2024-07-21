@@ -1,0 +1,238 @@
+/* Umumiy uslublar */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    box-sizing: border-box;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+p {
+    text-align: center;
+    margin-top: 15px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+form {
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+tr:hover {background-color: #f1f1f1;}
+/* Asosiy konteyner */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative; /* Absolute positioning uchun */
+}
+
+/* Log out tugmasi */
+.logout-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #f44336; /* Tugma rangini qizil qilish */
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.logout-btn:hover {
+    background-color: #c62828; /* Hover holatda tugma rangini o'zgartirish */
+}
+.admin-container {
+    width: 90%;
+    max-width: 1200px; /* Maksimal kenglik */
+    margin: 0 auto; /* Markazda joylashtirish */
+    padding: 20px;
+    background-color: #fff; /* Fon rangini oq qilish */
+    border-radius: 8px; /* Burchaklarini yumshatish */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Yumshoq soya qo'shish */
+    position: relative; /* Absolyut positioning uchun */
+}
+
+/* Header uchun styling */
+.admin-header {
+    position: relative;
+    padding: 15px 0;
+    border-bottom: 2px solid #ddd; /* Header ostida chegara qo'shish */
+    margin-bottom: 20px; /* Header va boshqa kontent orasida bo'shliq */
+}
+
+.admin-header h1 {
+    margin: 0;
+    font-size: 28px; /* Matn o'lchamini kattalashtirish */
+    color: #333; /* Matn rangini tanlash */
+}
+h2 {
+    margin: 0; /* H2 elementining atrofidagi bo'shliqni olib tashlash */
+}
+
+
+
+.admin-container {
+    text-align: center;
+    width: 100%;
+}
+
+h2 {
+    margin: 20px 0;
+}
+
+.logout-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #d32f2f;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.logout-btn:hover {
+    background-color: #c62828;
+}
+
+.alert {
+    margin: 20px auto; /* Marginni markazga o'zgartirish */
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    color: #333;
+    width: fit-content; /* Xabar kengligini matn bo'yicha o'rnatish */
+}
+.admin-container {
+    text-align: center;
+    width: 100%;
+}
+
+h2 {
+    margin: 20px 0;
+}
+
+.logout-btn, .show-data-btn, .back-btn {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #d32f2f;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.logout-btn:hover, .show-data-btn:hover, .back-btn:hover {
+    background-color: #c62828;
+}
