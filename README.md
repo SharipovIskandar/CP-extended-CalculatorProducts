@@ -39,6 +39,11 @@ Bu loyiha mahsulotlar jadvalini boshqarish va yangilash uchun mo'ljallangan. Loy
 - Loyihada `PDO` yordamida ma'lumotlar bazasi bilan ishlash xavfsizligini ta'minlaydi.
 - `Bootstrap` yordamida sahifalar yaxshi ko'rinishga ega va mobil qurilmalarda ham yaxshi ishlaydi.
 
+## Qo'shimcha hujjatlar
+
+- [Projoect notion yordamida To-Doga asoslani bajarildi]([https://link-to-notes-or-docs](https://www.notion.so/New-Website-94e684de4cf14518a73cfc2db8b1473d?pvs=4))
+
+
 ## Aloqa
 
 Agar savollar yoki takliflaringiz bo'lsa, iltimos, [Yamaksi](mailto:koklok444@gmail.com) bilan bog'laning.
