@@ -39,10 +39,6 @@ Bu loyiha mahsulotlar jadvalini boshqarish va yangilash uchun mo'ljallangan. Loy
 - Loyihada `PDO` yordamida ma'lumotlar bazasi bilan ishlash xavfsizligini ta'minlaydi.
 - `Bootstrap` yordamida sahifalar yaxshi ko'rinishga ega va mobil qurilmalarda ham yaxshi ishlaydi.
 
-## Litsenziya
-
-Bu loyiha [MIT Litsenziyasi](LICENSE) asosida tarqatiladi.
-
 ## Aloqa
 
 Agar savollar yoki takliflaringiz bo'lsa, iltimos, [Yamaksi](mailto:koklok444@gmail.com) bilan bog'laning.
