@@ -41,7 +41,7 @@ Bu loyiha mahsulotlar jadvalini boshqarish va yangilash uchun mo'ljallangan. Loy
 
 ## Qo'shimcha hujjatlar
 
-- [Projoect notion yordamida To-Doga asoslani bajarildi]([https://link-to-notes-or-docs](https://www.notion.so/New-Website-94e684de4cf14518a73cfc2db8b1473d?pvs=4))
+- Projoect notion yordamida To-Doga asoslani [bajarildi]([https://link-to-notes-or-docs](https://www.notion.so/New-Website-94e684de4cf14518a73cfc2db8b1473d?pvs=4))
 
 
 ## Aloqa
